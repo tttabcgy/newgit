@@ -1,3 +1,4 @@
+english this time
 把一个文件放到git仓库
 git add first.txt和git commit -m "说明message"
 反馈：1 file changed, 3 insertions(+) 插入了三行内容
